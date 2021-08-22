@@ -1,6 +1,6 @@
 # Xmovie
 
-<img src="https://github.com/KutuGondrong/xmovie/Screen-Recording.gif" alt="xmovie"/>
+<img src="https://github.com/KutuGondrong/xmovie/blob/main/Screen-Recording.gif" alt="xmovie"/>
 
 ## Features
 - List Movie
@@ -12,7 +12,7 @@
 - JSON Serializable
 - DIO
 - Retrofit
-= Mockito
+- Mockito
 - BlocTest
 
 ## Get Started

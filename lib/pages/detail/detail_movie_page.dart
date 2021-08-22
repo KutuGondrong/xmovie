@@ -6,8 +6,6 @@ import 'package:xmovie/widgets/error_image.dart';
 import 'package:xmovie/widgets/loading_indicator.dart';
 
 class DetailMoviePage extends StatefulWidget {
-  static const routeName = '/detail_movie';
-
   @override
   _DetailMoviePageState createState() => _DetailMoviePageState();
 }
